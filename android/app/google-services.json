@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "662599278242",
+    "project_id": "fir-1-17c5b",
+    "storage_bucket": "fir-1-17c5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662599278242:android:7a0a2224b3ac3995b1c1fb",
+        "android_client_info": {
+          "package_name": "com.MeetFireBaseexample.fire1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662599278242-rf6hesodvvgq05rd0efnev7mblrhb07r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApL6i3ptwxldsqLMzm0JM-VEHdSxRIPiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662599278242-rf6hesodvvgq05rd0efnev7mblrhb07r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
