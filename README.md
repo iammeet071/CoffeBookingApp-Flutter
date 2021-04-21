@@ -2,7 +2,12 @@
 
 A new Flutter project.
 
-## Getting Started
+## ScreenShots
+
+!![alt text](https://github.com/iammeet071/CoffeBookingApp-Flutter/blob/main/screenshots/1.png) !
+!![alt text](https://github.com/iammeet071/CoffeBookingApp-Flutter/blob/main/screenshots/2.png) !
+!![alt text](https://github.com/iammeet071/CoffeBookingApp-Flutter/blob/main/screenshots/3.png) !
+!![alt text](https://github.com/iammeet071/CoffeBookingApp-Flutter/blob/main/screenshots/4.png) !
 
 This project is a starting point for a Flutter application.
 
