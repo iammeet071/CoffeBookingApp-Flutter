@@ -140,8 +140,9 @@ class _SignInState extends State<SignIn> {
                                 .signInWithEmailAndPasword(email, password);
                             if (result == null) {
                               setState(() {
-                                return error = 'Enter Valid Credentials. !!';
                                 loading = false;
+                                return error = 'Enter Valid Credentials. !!';
+                                
                               });
                             }
                           }

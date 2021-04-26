@@ -118,8 +118,9 @@ class _RegisterState extends State<Register> {
                                 .registerWithEmailAndPasword(email, password);
                             if (result == null) {
                               setState(() {
-                                return error = 'Please use valid email';
                                 loading = false;
+                                return error = 'Please use valid email';
+                                
                               });
                             }
                           }
